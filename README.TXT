@@ -1,4 +1,0 @@
-VidMan
-======
-
-Video Manager
